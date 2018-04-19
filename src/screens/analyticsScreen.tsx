@@ -23,7 +23,7 @@ export class AnalyticsScreen extends React.Component {
                             topButton: {
                                 text: "Send a sample event",
                                 onPress: () => {
-                                    Analytics.trackEvent("Sample event", {});
+                                    Analytics.trackEvent("Test event", {test:'data'});
                                     Alert.alert(
                                         null,
                                         'Event sent',

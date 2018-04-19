@@ -9,16 +9,16 @@ PODS:
   - AppCenterXCUITestExtensions (1.0.0)
 
 DEPENDENCIES:
-  - AppCenter/Analytics (= 1.5.0)
-  - AppCenter/Crashes (= 1.5.0)
-  - AppCenterReactNativeShared (= 1.4.0)
-  - AppCenterXCUITestExtensions
+  - AppCenter/Analytics (~> 1.5.0)
+  - AppCenter/Crashes (~> 1.5.0)
+  - AppCenterReactNativeShared (~> 1.4.0)
+  - AppCenterXCUITestExtensions (= 1.0.0)
 
 SPEC CHECKSUMS:
   AppCenter: 42c293f0de27e173aacd600a55a49da5317cd40e
   AppCenterReactNativeShared: 056324303732841fff14f2a71c4a6839831b038b
   AppCenterXCUITestExtensions: 8825ed941664fa21d6740a5ed6928a84c06623ac
 
-PODFILE CHECKSUM: 8448c129966a122b119b28300d71857261d22477
+PODFILE CHECKSUM: 6a12c47fcc344f56091c56769531c5706220f8a7
 
 COCOAPODS: 1.3.1
